@@ -1,0 +1,2 @@
+1. korean language oack for visual studio code 설치
+2. makedown all in one 설치

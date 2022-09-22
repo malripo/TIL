@@ -1,0 +1,45 @@
+[1] Markdown all in one 설정하기
+[2] Markdown
+    (1) 마크다운이란?
+        - 마크업 언어는 말 그대로 마크(Mark)로 둘러싸인 언어입니다.
+        - 일반 텍스트 기반의 경량 마크업(Markup) 언어
+        - .md 확장자
+
+    (3) 마크다운 문법
+        1. 제목 (Headings) h1 ~ h6 =>#~######
+        2. 목록 (List)
+           - 순서가 없는 목록은 - * +
+           - 순서가 있는 목록은 1. 2. 3.
+        3. 강조 (Emphasis)
+           - 기울임 : *글자* 혹은 _글자_
+           - 굵게 : **글자** 혹은 __글자__
+           - 취소 : ~~글자~~
+        4. 코드 (Code)
+           - 인라인(Inline) 코드 : `inline code`처럼 백틱을 통해 코드를 감싸줍니다
+           - 블록(Block) 코드 : ```python 처럼 백틱을 3번 입력하고 코드의 종류를 작성합니다.
+
+        5. 링크 (Links)
+           - [표시할 글자](이동할 주소) 형태
+           - ex) [GOOGLE](https://google.com)
+        6. 이미지 (Images)
+           - ![대체 텍스트](이미지 주소)
+           - ex) ![Git로고](https://git-scm.com/images/logo@2x.png)
+        7. 인용 (Blockquote)
+           - > 를 사용합니다. 갯수(>>>>)에 따라 중첩이 가능합니다.
+        8. 표 (Table)
+           - 파이프( | )와 하이픈( - )을 이용해서 행과 열을 구분합니다.
+           - 헤더 셀을 구분할 때는 3개 이상의 하이픈( - )이 필요합니다.
+           - Typora에서는 ctrl + T 를 통해서 쉽게 표 생성이 가능합니다.
+        9. 수평선 (Horizontal Rule)
+           - (-, * , _)을 3번 이상 연속으로 작성합니다.
+[3] 부록
+    - TIL 모범 예시 ==>TIL TIL 모범 예시 => 출처: https://github.com/cheese10yun/TIL
+    - 아래 TIL 모범 사례를 보면서, 자기만의 TIL을 완성할 수 있도록 내용을 추가합니다.
+       1. https://github.com/Gyubin/TIL
+       2. https://github.com/cheese10yun/TIL
+       3. https://github.com/Integerous/TIL
+
+       1. GUIDE : https://www.markdownguide.org/basic-syntax/
+       2. 사용법: https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+    
